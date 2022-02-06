@@ -1,9 +1,4 @@
-import DocumentPicker, {
-  DirectoryPickerResponse,
-  DocumentPickerResponse,
-  isInProgress,
-  types,
-} from 'react-native-document-picker';
+import DocumentPicker, {isInProgress} from 'react-native-document-picker';
 // filter module
 import DataFile from '../data/DataFile';
 export function searchData(setData) {
