@@ -95,10 +95,11 @@ const styles = StyleSheet.create({
   txtInput: {
     width: '95%',
     alignSelf: 'center',
+    backgroundColor: '#fff',
     height: 100,
     marginBottom: '5%',
     alignContent: 'center',
     justifyContent: 'center',
-    elevation: 3,
+    elevation: 5,
   },
 });
